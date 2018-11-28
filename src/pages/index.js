@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Layout from '../components/Layout'
 
 import pic from '../img/harry_1.jpg';
-import hoverPic from '../img/harry_dcfc.JPG';
+import hoverPic from '../img/harry_dcfc.jpg';
 
 const harry = {
 	style: {
