@@ -31,7 +31,7 @@ export default class IndexPage extends React.Component {
           <div className="container">
             <div className="content">
               <img
-								onMouseEnter={this.togglePic} onMouseLeave={this.togglePic}
+								onMouseOut={this.togglePic} onMouseOver={this.togglePic}
 								src={this.state.pic} alt="harry" style={harry.style/* ;) */}
 							/>
             </div>
